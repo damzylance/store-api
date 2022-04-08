@@ -1,0 +1,131 @@
+[
+  {
+    "name": "accent chair",
+    "price": 25,
+    "company": "jumia",
+    "rating": 4
+  },
+  {
+    "name": "albany sectional",
+    "price": 109,
+    "company": "dangote",
+    "rating": 5
+  },
+  {
+    "name": "albany table",
+    "price": 309,
+    "company": "jumia",
+    "rating": 4.9
+  },
+  {
+    "name": "armchair",
+    "price": 125,
+    "company": "dangote",
+    "rating": 4.8
+  },
+  {
+    "name": "bar stool",
+    "price": 40,
+    "company": "jumia",
+    "rating": 4.6
+  },
+  {
+    "name": "dining table",
+    "price": 42,
+    "company": "dangote",
+    "rating": 4.55
+  },
+  {
+    "name": "emperor bed",
+    "price": 23,
+    "company": "estrade"
+  },
+  {
+    "name": "entertainment center",
+    "price": 59,
+    "featured": true,
+    "company": "afroverse"
+  },
+  {
+    "name": "high-back bench",
+    "price": 39,
+    "featured": true,
+    "company": "dangote"
+  },
+
+  {
+    "name": "leather sofa",
+    "price": 99,
+    "company": "estrade"
+  },
+  {
+    "name": "modern bookshelf",
+    "price": 31,
+    "featured": true,
+    "company": "afroverse"
+  },
+  {
+    "name": "modern poster",
+    "price": 30,
+    "company": "dangote"
+  },
+  {
+    "name": "shelf",
+    "price": 30,
+    "company": "jumia"
+  },
+  {
+    "name": "simple chair",
+    "price": 109,
+    "company": "jumia"
+  },
+  {
+    "name": "sofa set",
+    "price": 129,
+    "company": "afroverse"
+  },
+  {
+    "name": "suede armchair",
+    "price": 15,
+    "company": "jumia"
+  },
+  {
+    "name": "utopia sofa",
+    "price": 79,
+    "featured": true,
+    "company": "estrade"
+  },
+  {
+    "name": "vase table",
+    "price": 120,
+    "featured": true,
+    "company": "dangote"
+  },
+  {
+    "name": "wooden bed",
+    "price": 25,
+    "company": "jumia"
+  },
+  {
+    "name": "wooden desk",
+    "price": 15,
+    "company": "afroverse"
+  },
+  {
+    "name": "wooden desk",
+    "price": 40,
+    "company": "afroverse"
+  },
+  {
+    "name": "wooden table",
+    "price": 23,
+    "featured": true,
+    "company": "jumia"
+  },
+  {
+    "name": "a first wooden table",
+    "price": 23,
+    "featured": true,
+    "company": "dangote"
+  }
+]
